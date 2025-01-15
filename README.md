@@ -2,7 +2,7 @@
 <h1>Azure Monitor - Retrieve Events and Performance Counters</h1>
 
 <h2>Description</h2>
-In this project, an Azure SQL Database was deployed and secured with Microsoft Defender for SQL for threat protection and vulnerability assessment. Sensitive data was identified and classified to meet compliance standards, while auditing was configured to track database activities. This project demonstrated robust approach to protecting Azure SQL Databases through monitoring, compliance, and security tools. 
+This project involved configuring Azure Monitor to collect events and performance metrics from Azure resources. I set up data collection rules, created custom queries for analysis, and built dashboards for real-time monitoring and actionable insights. Alerts were also implemented to enable proactive system management.
 <br />
 <p align="center">
 
@@ -47,4 +47,4 @@ Create and Configure Data Collection Rule: <br/>
 
 <p align="center">
 <h2>Conclusion:</h2>
-The project provided a comprehensive approach to securing an Azure SQL Database by leveraging key security features such as Microsoft Defender for SQL, data classification, and auditing. The project demonstrated effective strategies for protecting sensitive data, ensuring regulatory compliance, and monitoring database activities. 
+This project highlights my proficiency in implementing Azure Monitor to centralize and analyze system telemetry for performance and event management. By configuring data collection, developing custom queries, and creating insightful dashboards, I demonstrated the ability to enhance system observability and support proactive operations management. This experience reflects my skills in leveraging Azure Monitor for real-time performance tracking and event-driven decision-making in cloud environments.
